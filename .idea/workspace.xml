@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75cbeb41-8b69-401f-bb17-8b554c975057" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sparta/oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sparta/oop/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sparta/oop/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sparta/debug/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sparta/debug/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sparta/debug/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sparta/debug/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.org.sparta.oop.Runner">
     <configuration name="PrimitiveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.sparta.type.primitivetype.PrimitiveRunner" />
       <module name="debugging-practice.main" />
@@ -118,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.sparta.oop.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sparta.oop.Runner" />
+      <module name="debugging-practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sparta.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.sparta.type.primitive.PrimitiveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.sparta.type.primitive.PrimitiveRunner" />
       <module name="debugging-practice.main" />
@@ -133,6 +147,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.sparta.oop.Runner" />
         <item itemvalue="Application.org.sparta.type.primitive.PrimitiveRunner" />
         <item itemvalue="Application.ReferenceRunner" />
         <item itemvalue="Application.PrimitiveRunner" />
